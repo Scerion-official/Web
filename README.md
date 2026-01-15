@@ -1,2 +1,0 @@
-# Web
-Ya gitu 
